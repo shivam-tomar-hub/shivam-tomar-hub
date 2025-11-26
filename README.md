@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam Tomar
 
-<!--
-**shivam-tomar-hub/shivam-tomar-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+- 🎓 I am a **B.Tech CSE** student  
+- 📚 Currently in **1st year**  
+- 💻 I am learning **programming languages** and building my skills  
+- 🚀 Passionate about **web development** and **software development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+### 🌐 Frontend Development
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+### 🖥️ Backend / Programming Languages
+- **Python**
+- **Java**
+
+### 🧰 Tools & Platforms
+- **GitHub**
+- **MS Word**
+- **Canva**
+
+---
+
+✨ *Feel free to check out my repositories and connect with me!*  
