@@ -23,7 +23,7 @@
 - **GitHub**
 - **MS Word**
 - **Canva**
-   LinkedIn
+- **LinkedIn**
 ---
 
 ✨ *Feel free to check out my repositories and connect with me!*  
