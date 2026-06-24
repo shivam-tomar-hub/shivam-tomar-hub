@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Shivam Tomar
 
 ## 👨‍🎓 About Me
-- 🎓 I am a **B.Tech CSE** student  
-- 📚 Currently in **1st year**  
+- 🎓 I am a **B.Tech CSE** student   
 - 💻 I am learning **programming languages** and building my skills  
 - 🚀 Passionate about **web development** and **software development**
 
